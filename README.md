@@ -1,6 +1,3 @@
-Here’s a README file for your DICOM to image conversion program, complete with an installation guide and an example. I've added some emojis to make it more engaging!
-
----
 
 # 🖼️ DICOM to Image Converter
 
